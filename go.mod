@@ -1,3 +1,3 @@
-module github.com/paulebose/first
+module github.com/paulebose/uno
 
 go 1.16
